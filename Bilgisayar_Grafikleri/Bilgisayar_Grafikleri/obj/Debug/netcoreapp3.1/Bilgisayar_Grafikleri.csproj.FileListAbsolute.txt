@@ -1,0 +1,16 @@
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.exe
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.deps.json
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.runtimeconfig.json
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.runtimeconfig.dev.json
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.dll
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\bin\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.pdb
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.csproj.AssemblyReference.cache
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.Form1.resources
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.csproj.GenerateResource.cache
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.AssemblyInfoInputs.cache
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.AssemblyInfo.cs
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.dll
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.pdb
+C:\Users\kaan_\source\repos\Bilgisayar_Grafikleri\Bilgisayar_Grafikleri\obj\Debug\netcoreapp3.1\Bilgisayar_Grafikleri.genruntimeconfig.cache
